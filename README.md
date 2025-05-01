@@ -2,7 +2,7 @@
 
 <p align="center">
   Cozinho código e depuro receitas! 👩‍🍳💻 <br>
-  Apaixonada por front-end, panelas, patas 🐾 e flores, especialmente margaridas! 🌼
+  Apaixonada por front-end, panelas, cachorrinhos 🐕 e flores, especialmente margaridas! 🌼
 </p>
 
 ---
