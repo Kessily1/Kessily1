@@ -11,7 +11,6 @@
 
 - 🍳 Se não tô codando, tô testando uma receita nova (spoiler: às vezes dá certo 😅)
 - 🐶 Cachorro? Amo. Código limpo? Também.
-- 🎨 Curto transformar ideias em interfaces lindas, funcionais e cheias de personalidade!
 - 🧁 Acredito que código bom é igual bolo: cresce melhor com carinho e atenção
 
 ---
