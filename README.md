@@ -1,4 +1,4 @@
-<h2 align="center">🍝 Oiê! Eu sou Kessily! 😊</h2>
+<h2 align="center">🍝 Olá! Eu sou Kessily! 😊</h2>
 
 <p align="center">
   Cozinho código e depuro receitas! 👩‍🍳💻 <br>
