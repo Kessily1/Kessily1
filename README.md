@@ -2,12 +2,12 @@
 
 <p align="center">
   Cozinho código e depuro receitas! 👩‍🍳💻 <br>
-  Apaixonada por front-end, panelas e patas 🐾
+  Apaixonada por front-end, panelas, patas 🐾 e flores, especialmente margaridas! 🌼
 </p>
 
 ---
 
-### ✨ Um pouco de mim
+### 🌼 Um pouco de mim
 
 - 🍳 Se não tô codando, tô testando uma receita nova (spoiler: às vezes dá certo 😅)
 - 🐶 Cachorro? Amo. Código limpo? Também.
@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  🌟 Programando sonhos com cheirinho de pão quentinho 🌟
+  🌼 Programando sonhos com cheirinho de pão quentinho 🌼
 </p>
