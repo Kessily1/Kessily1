@@ -39,7 +39,7 @@
 
 ### 📲 Me chama lá!
 
-📸 [@seu_instagram](https://www.instagram.com/kessily_/)  
+📸 [@meu_instagram](https://www.instagram.com/kessily_/)  
 📧 6kessilly@email.com
 
 ---
