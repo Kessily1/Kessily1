@@ -30,16 +30,18 @@
 
 ### 🚀 Alguns projetinhos do meu caderno de receitas:
 
-- 📘 `blog-angular` — Um blog visual com pitadas de Angular e muito CSS
-- 🍛 `board_` — Um REST de Java bem servido
-- 🛠️ Mais delícias (ou códigos) em preparo!
-
+- 🍿 **CineInfo** — Um projeto com sabor de Kotlin que entrega sinopses na medida certa
+- 🍛 **board_** — Um REST de Java bem servido e organizado
+- 📘 **blog-angular** — Um blog visual com pitadas de Angular e muito CSS
+- 🔍 **analise-ia** — Inteligência artificial temperada com curiosidade
+- 🤖 **Project-buzzfeed** — Projeto com TypeScript para quem gosta de diversão e quizzes
+- 💬 -Chat-Roma-Ai — Um chat em tempo real com APIs de gatinhos, cachorros, raposas e sons clássicos — diversão garantida!
 ---
 
 ### 📲 Me chama lá!
 
-📸 [@seu_instagram](https://instagram.com/seu_instagram)  
-📧 kessily@email.com
+📸 [@seu_instagram](https://www.instagram.com/kessily_/)  
+📧 6kessilly@email.com
 
 ---
 
