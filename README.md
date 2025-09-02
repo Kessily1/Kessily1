@@ -19,5 +19,5 @@ Busco sempre aplicar **boas práticas de desenvolvimento**, com atenção aos de
 
 ## 📬 Contato
 
-- **Instagram:** [@meu_instagram](https://instagram.com/meu_instagram)  
+ [@meu_instagram](https://www.instagram.com/kessily_/)  
 - **E-mail:** 6kessilly@email.com
